@@ -1,0 +1,523 @@
+[
+    {
+        "id": 1,
+        "tipoTreino": "A",
+        "categoria": "Peitoral",
+        "nomeTreino": "Supino Reto",
+        "serie": [
+            10,
+            10,
+            8,
+            8
+        ],
+        "repeticao": 4,
+        "modificaPeso": true,
+        "observacao": "",
+        "cross": false,
+        "crossID": 1
+    },
+    {
+        "id": 2,
+        "tipoTreino": "A",
+        "categoria": "Peitoral",
+        "nomeTreino": "Supino Inclinado",
+        "serie": [
+            10,
+            10,
+            8,
+            8
+        ],
+        "repeticao": 4,
+        "modificaPeso": true,
+        "observacao": "",
+        "cross": false,
+        "crossID": 2
+    },
+    {
+        "id": 3,
+        "tipoTreino": "A",
+        "categoria": "Peitoral",
+        "nomeTreino": "Crucifixo",
+        "serie": [
+            10,
+            10,
+            10,
+            10
+        ],
+        "repeticao": 4,
+        "modificaPeso": false,
+        "observacao": "",
+        "cross": false,
+        "crossID": 3
+    },
+    {
+        "id": 4,
+        "tipoTreino": "A",
+        "categoria": "Peitoral",
+        "nomeTreino": "Chest Press",
+        "serie": [
+            8,
+            8,
+            8,
+            8
+        ],
+        "repeticao": 4,
+        "modificaPeso": true,
+        "observacao": "",
+        "cross": false,
+        "crossID": 4
+    },
+    {
+        "id": 5,
+        "tipoTreino": "A",
+        "categoria": "Bíceps/Antebraço",
+        "nomeTreino": "Rosca Direta",
+        "serie": [
+            10,
+            10,
+            10,
+            10
+        ],
+        "repeticao": 4,
+        "modificaPeso": false,
+        "observacao": "",
+        "cross": false,
+        "crossID": 5
+    },
+    {
+        "id": 6,
+        "tipoTreino": "A",
+        "categoria": "Bíceps/Antebraço",
+        "nomeTreino": "Rosca Alternada",
+        "serie": [
+            8,
+            8,
+            8,
+            8
+        ],
+        "repeticao": 4,
+        "modificaPeso": false,
+        "observacao": "",
+        "cross": false,
+        "crossID": 6
+    },
+    {
+        "id": 7,
+        "tipoTreino": "A",
+        "categoria": "Bíceps/Antebraço",
+        "nomeTreino": "Rosca 45º",
+        "serie": [
+            10,
+            10,
+            10,
+            10
+        ],
+        "repeticao": 4,
+        "modificaPeso": false,
+        "observacao": "",
+        "cross": false,
+        "crossID": 7
+    },
+    {
+        "id": 8,
+        "tipoTreino": "A",
+        "categoria": "Bíceps/Antebraço",
+        "nomeTreino": "Rosca Punho",
+        "serie": [
+            15,
+            15,
+            15,
+            15
+        ],
+        "repeticao": 4,
+        "modificaPeso": false,
+        "observacao": "",
+        "cross": false,
+        "crossID": 8
+    },
+    {
+        "id": 9,
+        "tipoTreino": "A",
+        "categoria": "Abdominais",
+        "nomeTreino": "Abdominal Solo",
+        "serie": [
+            20,
+            20,
+            20
+        ],
+        "repeticao": 3,
+        "modificaPeso": false,
+        "observacao": "",
+        "cross": false,
+        "crossID": 9
+    },
+    {
+        "id": 10,
+        "tipoTreino": "A",
+        "categoria": "Abdominais",
+        "nomeTreino": "Abdominal Obliquo Cruzado",
+        "serie": [
+            20,
+            20,
+            20
+        ],
+        "repeticao": 3,
+        "modificaPeso": false,
+        "observacao": "",
+        "cross": false,
+        "crossID": 10
+    },
+    {
+        "id": 11,
+        "tipoTreino": "B",
+        "categoria": "Dorsal",
+        "nomeTreino": "Puxador Nuca",
+        "serie": [
+            10,
+            10,
+            8,
+            8
+        ],
+        "repeticao": 4,
+        "modificaPeso": true,
+        "observacao": "",
+        "cross": false,
+        "crossID": 11
+    },
+    {
+        "id": 12,
+        "tipoTreino": "B",
+        "categoria": "Dorsal",
+        "nomeTreino": "Puxador Frente",
+        "serie": [
+            10,
+            10,
+            8,
+            8
+        ],
+        "repeticao": 4,
+        "modificaPeso": true,
+        "observacao": "",
+        "cross": false,
+        "crossID": 12
+    },
+    {
+        "id": 13,
+        "tipoTreino": "B",
+        "categoria": "Dorsal",
+        "nomeTreino": "Remada Baixa",
+        "serie": [
+            10,
+            10,
+            8,
+            8
+        ],
+        "repeticao": 4,
+        "modificaPeso": true,
+        "observacao": "",
+        "cross": false,
+        "crossID": 13
+    },
+    {
+        "id": 14,
+        "tipoTreino": "B",
+        "categoria": "Dorsal",
+        "nomeTreino": "Remada articulada",
+        "serie": [
+            10,
+            10,
+            10,
+            10
+        ],
+        "repeticao": 4,
+        "modificaPeso": false,
+        "observacao": "",
+        "cross": false,
+        "crossID": 14
+    },
+    {
+        "id": 15,
+        "tipoTreino": "B",
+        "categoria": "Tríceps/Antebraço",
+        "nomeTreino": "Tríceps Pulley",
+        "serie": [
+            10,
+            10,
+            8,
+            8
+        ],
+        "repeticao": 4,
+        "modificaPeso": true,
+        "observacao": "",
+        "cross": false,
+        "crossID": 15
+    },
+    {
+        "id": 16,
+        "tipoTreino": "B",
+        "categoria": "Tríceps/Antebraço",
+        "nomeTreino": "Tríceps Pulley Inverso",
+        "serie": [
+            10,
+            10,
+            10,
+            10
+        ],
+        "repeticao": 4,
+        "modificaPeso": false,
+        "observacao": "",
+        "cross": false,
+        "crossID": 16
+    },
+    {
+        "id": 17,
+        "tipoTreino": "B",
+        "categoria": "Tríceps/Antebraço",
+        "nomeTreino": "Tríceps Corda",
+        "serie": [
+            12,
+            12,
+            12,
+            12
+        ],
+        "repeticao": 4,
+        "modificaPeso": false,
+        "observacao": "",
+        "cross": false,
+        "crossID": 17
+    },
+    {
+        "id": 18,
+        "tipoTreino": "B",
+        "categoria": "Tríceps/Antebraço",
+        "nomeTreino": "Rosca Inversa",
+        "serie": [
+            10,
+            10,
+            10,
+            10
+        ],
+        "repeticao": 4,
+        "modificaPeso": false,
+        "observacao": "",
+        "cross": false,
+        "crossID": 18
+    },
+    {
+        "id": 19,
+        "tipoTreino": "B",
+        "categoria": "Abdominais",
+        "nomeTreino": "Abdominal Mão na Perna",
+        "serie": [
+            20,
+            20,
+            20
+        ],
+        "repeticao": 3,
+        "modificaPeso": false,
+        "observacao": "",
+        "cross": false,
+        "crossID": 19
+    },
+    {
+        "id": 20,
+        "tipoTreino": "B",
+        "categoria": "Abdominais",
+        "nomeTreino": "Abdominal Canivete",
+        "serie": [
+            20,
+            20,
+            20
+        ],
+        "repeticao": 3,
+        "modificaPeso": false,
+        "observacao": "Pé no Chão",
+        "cross": false,
+        "crossID": 20
+    },
+    {
+        "id": 21,
+        "tipoTreino": "C",
+        "categoria": "Membros Inferiores",
+        "nomeTreino": "Leg Press",
+        "serie": [
+            10,
+            10,
+            8,
+            8
+        ],
+        "repeticao": 4,
+        "modificaPeso": true,
+        "observacao": "",
+        "cross": false,
+        "crossID": 21
+    },
+    {
+        "id": 22,
+        "tipoTreino": "C",
+        "categoria": "Membros Inferiores",
+        "nomeTreino": "Extensor",
+        "serie": [
+            10,
+            10,
+            10,
+            10
+        ],
+        "repeticao": 4,
+        "modificaPeso": true,
+        "observacao": "",
+        "cross": false,
+        "crossID": 22
+    },
+    {
+        "id": 23,
+        "tipoTreino": "C",
+        "categoria": "Membros Inferiores",
+        "nomeTreino": "Flexor",
+        "serie": [
+            10,
+            10,
+            8,
+            8
+        ],
+        "repeticao": 4,
+        "modificaPeso": true,
+        "observacao": "",
+        "cross": false,
+        "crossID": 23
+    },
+    {
+        "id": 24,
+        "tipoTreino": "C",
+        "categoria": "Membros Inferiores",
+        "nomeTreino": "Hack Press",
+        "serie": [
+            10,
+            10,
+            10,
+            10
+        ],
+        "repeticao": 4,
+        "modificaPeso": false,
+        "observacao": "SQUAT",
+        "cross": false,
+        "crossID": 24
+    },
+    {
+        "id": 25,
+        "tipoTreino": "C",
+        "categoria": "Membros Inferiores",
+        "nomeTreino": "Gêmeos em Pé",
+        "serie": [
+            15,
+            15,
+            15,
+            15
+        ],
+        "repeticao": 4,
+        "modificaPeso": false,
+        "observacao": "",
+        "cross": false,
+        "crossID": 25
+    },
+    {
+        "id": 26,
+        "tipoTreino": "C",
+        "categoria": "Deltóides/Trapezio",
+        "nomeTreino": "Desenvolvimento Halteres",
+        "serie": [
+            10,
+            10,
+            10,
+            10
+        ],
+        "repeticao": 4,
+        "modificaPeso": false,
+        "observacao": "",
+        "cross": false,
+        "crossID": 26
+    },
+    {
+        "id": 27,
+        "tipoTreino": "C",
+        "categoria": "Deltóides/Trapezio",
+        "nomeTreino": "Elevação Lateral",
+        "serie": [
+            10,
+            10,
+            10,
+            10
+        ],
+        "repeticao": 4,
+        "modificaPeso": false,
+        "observacao": "",
+        "cross": false,
+        "crossID": 27
+    },
+    {
+        "id": 28,
+        "tipoTreino": "C",
+        "categoria": "Deltóides/Trapezio",
+        "nomeTreino": "Encolimento",
+        "serie": [
+            15,
+            15,
+            15,
+            15
+        ],
+        "repeticao": 4,
+        "modificaPeso": false,
+        "observacao": "",
+        "cross": false,
+        "crossID": 28
+    },
+    {
+        "id": 29,
+        "tipoTreino": "C",
+        "categoria": "Deltóides/Trapezio",
+        "nomeTreino": "Shoulder Press",
+        "serie": [
+            10,
+            10,
+            8,
+            8
+        ],
+        "repeticao": 4,
+        "modificaPeso": true,
+        "observacao": "",
+        "cross": false,
+        "crossID": 29
+    },
+    {
+        "id": 30,
+        "tipoTreino": "C",
+        "categoria": "Abdominais",
+        "nomeTreino": "Abdominal Obliquo Alternado",
+        "serie": [
+            20,
+            20,
+            20
+        ],
+        "repeticao": 3,
+        "modificaPeso": false,
+        "observacao": "Recuo",
+        "cross": false,
+        "crossID": 30
+    },
+    {
+        "id": 31,
+        "tipoTreino": "C",
+        "categoria": "Abdominais",
+        "nomeTreino": "Abdominal Inclinação Lateral",
+        "serie": [
+            20,
+            20,
+            20
+        ],
+        "repeticao": 3,
+        "modificaPeso": false,
+        "observacao": "",
+        "cross": false,
+        "crossID": 31
+    }
+]

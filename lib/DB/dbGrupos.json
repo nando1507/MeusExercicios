@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "Grupo": "Peitoral"
+    },
+    {
+        "id": 2,
+        "Grupo": "Dorsal"
+    },
+    {
+        "id": 3,
+        "Grupo": "Deltóides/Trapezio"
+    },
+    {
+        "id": 4,
+        "Grupo": "Bíceps/Antebraço"
+    },
+    {
+        "id": 5,
+        "Grupo": "Tríceps/Antebraço"
+    },
+    {
+        "id": 6,
+        "Grupo": "Membros Inferiores"
+    },
+    {
+        "id": 7,
+        "Grupo": "Abdominais"
+    },
+    {
+        "id": 8,
+        "Grupo": "Aeróbico"
+    }
+]

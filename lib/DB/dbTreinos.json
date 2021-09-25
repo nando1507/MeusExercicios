@@ -1,0 +1,542 @@
+[
+    {
+        "id": 1,
+        "exercicio": "Supino Reto",
+        "idGrupo": 1
+    },
+    {
+        "id": 2,
+        "exercicio": "Supino Inclinado",
+        "idGrupo": 1
+    },
+    {
+        "id": 3,
+        "exercicio": "Supino Decliando",
+        "idGrupo": 1
+    },
+    {
+        "id": 4,
+        "exercicio": "Crucifixo",
+        "idGrupo": 1
+    },
+    {
+        "id": 5,
+        "exercicio": "Peck Fly",
+        "idGrupo": 1
+    },
+    {
+        "id": 6,
+        "exercicio": "Fly",
+        "idGrupo": 1
+    },
+    {
+        "id": 7,
+        "exercicio": "Cross Over",
+        "idGrupo": 1
+    },
+    {
+        "id": 8,
+        "exercicio": "Supino Reto Smith",
+        "idGrupo": 1
+    },
+    {
+        "id": 9,
+        "exercicio": "Chest Press",
+        "idGrupo": 1
+    },
+    {
+        "id": 10,
+        "exercicio": "Peck Deck",
+        "idGrupo": 1
+    },
+    {
+        "id": 11,
+        "exercicio": "Pull Over",
+        "idGrupo": 1
+    },
+    {
+        "id": 12,
+        "exercicio": "Barra Fixa",
+        "idGrupo": 2
+    },
+    {
+        "id": 13,
+        "exercicio": "Puxador Nuca",
+        "idGrupo": 2
+    },
+    {
+        "id": 14,
+        "exercicio": "Puxador Frente",
+        "idGrupo": 2
+    },
+    {
+        "id": 15,
+        "exercicio": "Puxador Fechado",
+        "idGrupo": 2
+    },
+    {
+        "id": 16,
+        "exercicio": "Remada Baixa",
+        "idGrupo": 2
+    },
+    {
+        "id": 17,
+        "exercicio": "Remada articulada",
+        "idGrupo": 2
+    },
+    {
+        "id": 18,
+        "exercicio": "Remada Cavalinho",
+        "idGrupo": 2
+    },
+    {
+        "id": 19,
+        "exercicio": "Remada Unilateral",
+        "idGrupo": 2
+    },
+    {
+        "id": 20,
+        "exercicio": "Remada Curvada",
+        "idGrupo": 2
+    },
+    {
+        "id": 21,
+        "exercicio": "Levantamento Terra",
+        "idGrupo": 2
+    },
+    {
+        "id": 22,
+        "exercicio": "Peck Deck Inverso",
+        "idGrupo": 2
+    },
+    {
+        "id": 23,
+        "exercicio": "Desenvolvimento Nuca",
+        "idGrupo": 3
+    },
+    {
+        "id": 24,
+        "exercicio": "Desenvolvimento Frente",
+        "idGrupo": 3
+    },
+    {
+        "id": 25,
+        "exercicio": "Desenvolvimento Halteres",
+        "idGrupo": 3
+    },
+    {
+        "id": 26,
+        "exercicio": "Arnold Press",
+        "idGrupo": 3
+    },
+    {
+        "id": 27,
+        "exercicio": "Elevação Lateral",
+        "idGrupo": 3
+    },
+    {
+        "id": 28,
+        "exercicio": "Elevação Frontal",
+        "idGrupo": 3
+    },
+    {
+        "id": 29,
+        "exercicio": "Levantamento Olímpico",
+        "idGrupo": 3
+    },
+    {
+        "id": 30,
+        "exercicio": "Remada Alta",
+        "idGrupo": 3
+    },
+    {
+        "id": 31,
+        "exercicio": "Encolimento",
+        "idGrupo": 3
+    },
+    {
+        "id": 32,
+        "exercicio": "Shoulder Press",
+        "idGrupo": 3
+    },
+    {
+        "id": 33,
+        "exercicio": "Rosca Direta",
+        "idGrupo": 4
+    },
+    {
+        "id": 34,
+        "exercicio": "Rosca Alternada",
+        "idGrupo": 4
+    },
+    {
+        "id": 35,
+        "exercicio": "Rosca Concentrada",
+        "idGrupo": 4
+    },
+    {
+        "id": 36,
+        "exercicio": "Rosca 45º",
+        "idGrupo": 4
+    },
+    {
+        "id": 37,
+        "exercicio": "Rosca Scott",
+        "idGrupo": 4
+    },
+    {
+        "id": 38,
+        "exercicio": "Rosca Cross",
+        "idGrupo": 4
+    },
+    {
+        "id": 39,
+        "exercicio": "Rosca Banco",
+        "idGrupo": 4
+    },
+    {
+        "id": 40,
+        "exercicio": "Rosca Martelo",
+        "idGrupo": 4
+    },
+    {
+        "id": 41,
+        "exercicio": "Rosca Punho",
+        "idGrupo": 4
+    },
+    {
+        "id": 42,
+        "exercicio": "Tríceps Pulley",
+        "idGrupo": 5
+    },
+    {
+        "id": 43,
+        "exercicio": "Tríceps Pulley Inverso",
+        "idGrupo": 5
+    },
+    {
+        "id": 44,
+        "exercicio": "Tríceps Corda",
+        "idGrupo": 5
+    },
+    {
+        "id": 45,
+        "exercicio": "Tríceps Frances",
+        "idGrupo": 5
+    },
+    {
+        "id": 46,
+        "exercicio": "Tríceps Supino",
+        "idGrupo": 5
+    },
+    {
+        "id": 47,
+        "exercicio": "Tríceps Testa",
+        "idGrupo": 5
+    },
+    {
+        "id": 48,
+        "exercicio": "Tríceps Coice",
+        "idGrupo": 5
+    },
+    {
+        "id": 49,
+        "exercicio": "Tríceps Banco",
+        "idGrupo": 5
+    },
+    {
+        "id": 50,
+        "exercicio": "Tríceps Paralela",
+        "idGrupo": 5
+    },
+    {
+        "id": 51,
+        "exercicio": "Rosca Inversa",
+        "idGrupo": 5
+    },
+    {
+        "id": 52,
+        "exercicio": "Leg Press",
+        "idGrupo": 6
+    },
+    {
+        "id": 53,
+        "exercicio": "Extensor",
+        "idGrupo": 6
+    },
+    {
+        "id": 54,
+        "exercicio": "Flexor",
+        "idGrupo": 6
+    },
+    {
+        "id": 55,
+        "exercicio": "Hack Press",
+        "idGrupo": 6
+    },
+    {
+        "id": 56,
+        "exercicio": "Agachamento Smith",
+        "idGrupo": 6
+    },
+    {
+        "id": 57,
+        "exercicio": "Agachamento Livre",
+        "idGrupo": 6
+    },
+    {
+        "id": 58,
+        "exercicio": "Agachamento Sumo",
+        "idGrupo": 6
+    },
+    {
+        "id": 59,
+        "exercicio": "Agachamento Frontal",
+        "idGrupo": 6
+    },
+    {
+        "id": 60,
+        "exercicio": "Avanço com Halteres",
+        "idGrupo": 6
+    },
+    {
+        "id": 61,
+        "exercicio": "Afundo",
+        "idGrupo": 6
+    },
+    {
+        "id": 62,
+        "exercicio": "Cadeira Adutora",
+        "idGrupo": 6
+    },
+    {
+        "id": 63,
+        "exercicio": "Cadeira Abdutora",
+        "idGrupo": 6
+    },
+    {
+        "id": 64,
+        "exercicio": "Abdução em Pé",
+        "idGrupo": 6
+    },
+    {
+        "id": 65,
+        "exercicio": "Abdução Deitada",
+        "idGrupo": 6
+    },
+    {
+        "id": 66,
+        "exercicio": "Abdução Cross Over",
+        "idGrupo": 6
+    },
+    {
+        "id": 67,
+        "exercicio": "Gêmeos em Pé",
+        "idGrupo": 6
+    },
+    {
+        "id": 68,
+        "exercicio": "Gêmeos em Pé Smith",
+        "idGrupo": 6
+    },
+    {
+        "id": 69,
+        "exercicio": "Gêmeos Sentado",
+        "idGrupo": 6
+    },
+    {
+        "id": 70,
+        "exercicio": "Glúteo Maquina",
+        "idGrupo": 6
+    },
+    {
+        "id": 71,
+        "exercicio": "Glúteo 4 Apoios",
+        "idGrupo": 6
+    },
+    {
+        "id": 72,
+        "exercicio": "Glúteo 4 Apoios Flex",
+        "idGrupo": 6
+    },
+    {
+        "id": 73,
+        "exercicio": "Glúteo Lateral",
+        "idGrupo": 6
+    },
+    {
+        "id": 74,
+        "exercicio": "Glúteo Cross",
+        "idGrupo": 6
+    },
+    {
+        "id": 75,
+        "exercicio": "Elevação Pélvica",
+        "idGrupo": 6
+    },
+    {
+        "id": 76,
+        "exercicio": "Abdominal Solo",
+        "idGrupo": 7
+    },
+    {
+        "id": 77,
+        "exercicio": "Abdominal Pés Elevados",
+        "idGrupo": 7
+    },
+    {
+        "id": 78,
+        "exercicio": "Abdominal Obliquo Alternado",
+        "idGrupo": 7
+    },
+    {
+        "id": 79,
+        "exercicio": "Abdominal Obliquo Cruzado",
+        "idGrupo": 7
+    },
+    {
+        "id": 80,
+        "exercicio": "Abdominal Obliquo Lateral",
+        "idGrupo": 7
+    },
+    {
+        "id": 81,
+        "exercicio": "Abdominal Prancha",
+        "idGrupo": 7
+    },
+    {
+        "id": 82,
+        "exercicio": "Abdominal Obliquo Prancha",
+        "idGrupo": 7
+    },
+    {
+        "id": 83,
+        "exercicio": "Abdominal Solo com Recuo de Pernas",
+        "idGrupo": 7
+    },
+    {
+        "id": 84,
+        "exercicio": "Abdominal Elevação de Pernas",
+        "idGrupo": 7
+    },
+    {
+        "id": 85,
+        "exercicio": "Abdominal Infra Banco",
+        "idGrupo": 7
+    },
+    {
+        "id": 86,
+        "exercicio": "Abdominal Inclinação Lateral",
+        "idGrupo": 7
+    },
+    {
+        "id": 87,
+        "exercicio": "Abdominal Infra Bola",
+        "idGrupo": 7
+    },
+    {
+        "id": 88,
+        "exercicio": "Abdominal Prancha Anilha baixa",
+        "idGrupo": 7
+    },
+    {
+        "id": 89,
+        "exercicio": "Abdominal Mão na Perna",
+        "idGrupo": 7
+    },
+    {
+        "id": 90,
+        "exercicio": "Abdominal Jacaré",
+        "idGrupo": 7
+    },
+    {
+        "id": 91,
+        "exercicio": "Abdominal Prancha Inversa",
+        "idGrupo": 7
+    },
+    {
+        "id": 92,
+        "exercicio": "Abdominal Paralela",
+        "idGrupo": 7
+    },
+    {
+        "id": 93,
+        "exercicio": "Abdominal Remador",
+        "idGrupo": 7
+    },
+    {
+        "id": 94,
+        "exercicio": "Abdominal Canivete",
+        "idGrupo": 7
+    },
+    {
+        "id": 95,
+        "exercicio": "Abdominal Crucifixo",
+        "idGrupo": 7
+    },
+    {
+        "id": 96,
+        "exercicio": "Abdominal Infra Solo",
+        "idGrupo": 7
+    },
+    {
+        "id": 97,
+        "exercicio": "Abdominal Obliquo banco",
+        "idGrupo": 7
+    },
+    {
+        "id": 98,
+        "exercicio": "Abdominal Obliquo com recuo de Perna",
+        "idGrupo": 7
+    },
+    {
+        "id": 99,
+        "exercicio": "Abdominal Isométrico Bola ",
+        "idGrupo": 7
+    },
+    {
+        "id": 100,
+        "exercicio": "Abdominal Isométrico Solo",
+        "idGrupo": 7
+    },
+    {
+        "id": 101,
+        "exercicio": "Abdominal Isométrico Solo 3 Fases ",
+        "idGrupo": 7
+    },
+    {
+        "id": 102,
+        "exercicio": "Abdominal Prancha Anilha Alta",
+        "idGrupo": 7
+    },
+    {
+        "id": 103,
+        "exercicio": "Abdominal Oblíquo Prancha com Anilha",
+        "idGrupo": 7
+    },
+    {
+        "id": 104,
+        "exercicio": "Abdominal Rotações Com Barra",
+        "idGrupo": 7
+    },
+    {
+        "id": 105,
+        "exercicio": "Abdominal Infra Barra",
+        "idGrupo": 7
+    },
+    {
+        "id": 106,
+        "exercicio": "Esteira",
+        "idGrupo": 8
+    },
+    {
+        "id": 107,
+        "exercicio": "Elíptico",
+        "idGrupo": 8
+    },
+    {
+        "id": 108,
+        "exercicio": "Bicicleta",
+        "idGrupo": 8
+    }
+]
