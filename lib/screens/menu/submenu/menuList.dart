@@ -118,6 +118,11 @@ class MenuList extends StatelessWidget {
         onTap: () {
           Navigator.pop(context);
         },
+      ),
+      Container(
+        color: Colors.black,
+        width: double.infinity,
+        height: 0.1,
       )
     ]);
   }

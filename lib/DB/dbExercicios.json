@@ -10,6 +10,13 @@
             8,
             8
         ],
+        "pesoSerie": [
+            18,
+            18,
+            21,
+            21
+        ],
+        "pesoMinSerie": 15,
         "repeticao": 4,
         "modificaPeso": true,
         "observacao": "",
@@ -27,6 +34,13 @@
             8,
             8
         ],
+        "pesoSerie": [
+            15,
+            15,
+            20,
+            20
+        ],
+        "pesoMinSerie": 15,
         "repeticao": 4,
         "modificaPeso": true,
         "observacao": "",
@@ -44,6 +58,13 @@
             10,
             10
         ],
+        "pesoSerie": [
+            10,
+            10,
+            10,
+            10
+        ],
+        "pesoMinSerie": 8,
         "repeticao": 4,
         "modificaPeso": false,
         "observacao": "",
@@ -61,6 +82,13 @@
             8,
             8
         ],
+        "pesoSerie": [
+            15,
+            20,
+            25,
+            30
+        ],
+        "pesoMinSerie": 15,
         "repeticao": 4,
         "modificaPeso": true,
         "observacao": "",
@@ -78,6 +106,13 @@
             10,
             10
         ],
+        "pesoSerie": [
+            10,
+            10,
+            10,
+            10
+        ],
+        "pesoMinSerie": 8,
         "repeticao": 4,
         "modificaPeso": false,
         "observacao": "",
@@ -95,6 +130,13 @@
             8,
             8
         ],
+        "pesoSerie": [
+            10,
+            10,
+            10,
+            10
+        ],
+        "pesoMinSerie": 8,
         "repeticao": 4,
         "modificaPeso": false,
         "observacao": "",
@@ -112,6 +154,13 @@
             10,
             10
         ],
+        "pesoSerie": [
+            10,
+            10,
+            10,
+            10
+        ],
+        "pesoMinSerie": 8,
         "repeticao": 4,
         "modificaPeso": false,
         "observacao": "",
@@ -129,6 +178,13 @@
             15,
             15
         ],
+        "pesoSerie": [
+            25,
+            25,
+            25,
+            25
+        ],
+        "pesoMinSerie": 20,
         "repeticao": 4,
         "modificaPeso": false,
         "observacao": "",
@@ -145,6 +201,13 @@
             20,
             20
         ],
+        "pesoSerie": [
+            10,
+            10,
+            10,
+            10
+        ],
+        "pesoMinSerie": 0,
         "repeticao": 3,
         "modificaPeso": false,
         "observacao": "",
@@ -161,6 +224,13 @@
             20,
             20
         ],
+        "pesoSerie": [
+            10,
+            10,
+            10,
+            10
+        ],
+        "pesoMinSerie": 0,
         "repeticao": 3,
         "modificaPeso": false,
         "observacao": "",
@@ -178,6 +248,13 @@
             8,
             8
         ],
+        "pesoSerie": [
+            40,
+            40,
+            50,
+            50
+        ],
+        "pesoMinSerie": 40,
         "repeticao": 4,
         "modificaPeso": true,
         "observacao": "",
@@ -195,6 +272,13 @@
             8,
             8
         ],
+        "pesoSerie": [
+            40,
+            40,
+            50,
+            50
+        ],
+        "pesoMinSerie": 40,
         "repeticao": 4,
         "modificaPeso": true,
         "observacao": "",
@@ -212,6 +296,13 @@
             8,
             8
         ],
+        "pesoSerie": [
+            50,
+            50,
+            60,
+            60
+        ],
+        "pesoMinSerie": 40,
         "repeticao": 4,
         "modificaPeso": true,
         "observacao": "",
@@ -229,6 +320,13 @@
             10,
             10
         ],
+        "pesoSerie": [
+            20,
+            20,
+            30,
+            30
+        ],
+        "pesoMinSerie": 20,
         "repeticao": 4,
         "modificaPeso": false,
         "observacao": "",
@@ -246,6 +344,13 @@
             8,
             8
         ],
+        "pesoSerie": [
+            35,
+            35,
+            40,
+            40
+        ],
+        "pesoMinSerie": 30,
         "repeticao": 4,
         "modificaPeso": true,
         "observacao": "",
@@ -263,6 +368,13 @@
             10,
             10
         ],
+        "pesoSerie": [
+            35,
+            35,
+            40,
+            40
+        ],
+        "pesoMinSerie": 30,
         "repeticao": 4,
         "modificaPeso": false,
         "observacao": "",
@@ -280,6 +392,13 @@
             12,
             12
         ],
+        "pesoSerie": [
+            35,
+            35,
+            40,
+            40
+        ],
+        "pesoMinSerie": 30,
         "repeticao": 4,
         "modificaPeso": false,
         "observacao": "",
@@ -297,6 +416,13 @@
             10,
             10
         ],
+        "pesoSerie": [
+            25,
+            25,
+            30,
+            30
+        ],
+        "pesoMinSerie": 20,
         "repeticao": 4,
         "modificaPeso": false,
         "observacao": "",
@@ -313,6 +439,13 @@
             20,
             20
         ],
+        "pesoSerie": [
+            10,
+            10,
+            10,
+            10
+        ],
+        "pesoMinSerie": 0,
         "repeticao": 3,
         "modificaPeso": false,
         "observacao": "",
@@ -329,6 +462,13 @@
             20,
             20
         ],
+        "pesoSerie": [
+            10,
+            10,
+            10,
+            10
+        ],
+        "pesoMinSerie": 0,
         "repeticao": 3,
         "modificaPeso": false,
         "observacao": "Pé no Chão",
@@ -346,6 +486,13 @@
             8,
             8
         ],
+        "pesoSerie": [
+            200,
+            200,
+            240,
+            240
+        ],
+        "pesoMinSerie": 180,
         "repeticao": 4,
         "modificaPeso": true,
         "observacao": "",
@@ -363,6 +510,13 @@
             10,
             10
         ],
+        "pesoSerie": [
+            40,
+            45,
+            50,
+            55
+        ],
+        "pesoMinSerie": 40,
         "repeticao": 4,
         "modificaPeso": true,
         "observacao": "",
@@ -380,6 +534,13 @@
             8,
             8
         ],
+        "pesoSerie": [
+            20,
+            25,
+            30,
+            35
+        ],
+        "pesoMinSerie": 20,
         "repeticao": 4,
         "modificaPeso": true,
         "observacao": "",
@@ -397,6 +558,13 @@
             10,
             10
         ],
+        "pesoSerie": [
+            40,
+            40,
+            60,
+            60
+        ],
+        "pesoMinSerie": 40,
         "repeticao": 4,
         "modificaPeso": false,
         "observacao": "SQUAT",
@@ -414,6 +582,13 @@
             15,
             15
         ],
+        "pesoSerie": [
+            40,
+            40,
+            40,
+            40
+        ],
+        "pesoMinSerie": 40,
         "repeticao": 4,
         "modificaPeso": false,
         "observacao": "",
@@ -431,6 +606,13 @@
             10,
             10
         ],
+        "pesoSerie": [
+            12,
+            12,
+            12,
+            12
+        ],
+        "pesoMinSerie": 10,
         "repeticao": 4,
         "modificaPeso": false,
         "observacao": "",
@@ -448,6 +630,13 @@
             10,
             10
         ],
+        "pesoSerie": [
+            8,
+            8,
+            8,
+            8
+        ],
+        "pesoMinSerie": 7,
         "repeticao": 4,
         "modificaPeso": false,
         "observacao": "",
@@ -465,6 +654,13 @@
             15,
             15
         ],
+        "pesoSerie": [
+            18,
+            18,
+            18,
+            18
+        ],
+        "pesoMinSerie": 16,
         "repeticao": 4,
         "modificaPeso": false,
         "observacao": "",
@@ -482,6 +678,13 @@
             8,
             8
         ],
+        "pesoSerie": [
+            15,
+            20,
+            25,
+            30
+        ],
+        "pesoMinSerie": 15,
         "repeticao": 4,
         "modificaPeso": true,
         "observacao": "",
@@ -498,6 +701,13 @@
             20,
             20
         ],
+        "pesoSerie": [
+            10,
+            10,
+            10,
+            10
+        ],
+        "pesoMinSerie": 0,
         "repeticao": 3,
         "modificaPeso": false,
         "observacao": "Recuo",
@@ -514,6 +724,13 @@
             20,
             20
         ],
+        "pesoSerie": [
+            10,
+            10,
+            10,
+            10
+        ],
+        "pesoMinSerie": 0,
         "repeticao": 3,
         "modificaPeso": false,
         "observacao": "",
