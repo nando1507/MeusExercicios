@@ -6,7 +6,7 @@ import 'package:flutter_application_1/screens/Menu/menu.dart';
 const String _AppBarTitle = 'Exercicios';
 
 void main() {
-  runApp() => MeuApp();
+  runApp(MeuApp());
 }
 
 class MeuApp extends StatelessWidget {
