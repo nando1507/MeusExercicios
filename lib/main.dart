@@ -3,8 +3,10 @@ import 'dart:ui';
 import 'package:flutter/material.dart';
 import 'package:flutter_application_1/screens/Menu/menu.dart';
 
+const String _AppBarTitle = 'Exercicios';
+
 void main() {
-  runApp(MeuApp());
+  runApp() => MeuApp();
 }
 
 class MeuApp extends StatelessWidget {
@@ -13,7 +15,7 @@ class MeuApp extends StatelessWidget {
     return MaterialApp(
         home: Scaffold(
             appBar: AppBar(
-              title: Text('Exercicios'),
+              title: Text(_AppBarTitle),
             ),
             drawer: Menu()));
   }
