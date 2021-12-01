@@ -1,19 +1,22 @@
 // ignore: unused_import
 import 'dart:ui';
 import 'package:flutter/material.dart';
-import 'screens/Inicio.dart';
+import 'screens/menu/menu.dart';
 
 void main() => runApp(const MeuApp());
 
 class MeuApp extends StatelessWidget {
   const MeuApp({Key? key}) : super(key: key);
 
-  static const appTitle = 'Exercicios';
+  static const _AppBarTitle = 'Exercicios';
 
   @override
   Widget build(BuildContext context) {
-    return const MaterialApp(
-      home: MyHomePage(title: appTitle),
-    );
+    return MaterialApp(
+        home: Scaffold(
+            appBar: AppBar(
+              title: Text(_AppBarTitle),
+            ),
+            drawer: Menu()));
   }
 }
